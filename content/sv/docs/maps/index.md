@@ -6,7 +6,7 @@ resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
     params:
-      byline: "Photo: Mikael Engström / CC-BY-CA"
+      byline: "Grafik: Mikael Engström / CC-BY-CA"
 ---
 
 {{% pageinfo %}}
