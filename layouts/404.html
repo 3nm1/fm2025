@@ -1,0 +1,61 @@
+{{ define "main" }}
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>404 - Sidan hittades inte</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #e0f2ff, #cce0f0);
+      color: #003366;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+    .button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #005b99;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    .button:hover {
+      background-color: #004477;
+    }
+    .illustration {
+      margin: 40px auto;
+      max-width: 300px;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #336699;
+    }
+  </style>
+</head>
+<body>
+  <h1>404 - Sidan är ute på vandring</h1>
+  <p>Den här sidan verkar ha tagit ryggsäcken och gett sig ut i skogen.  
+  Vi har inte lyckats hitta den, men vi hoppas den har matsäck och kompass.</p>
+
+  <p>Det kan bero på att du skrivit fel adress, eller att sidan har flyttat till en annan stig.</p>
+
+  <a class="button" href="https://www.fm2025.se">Tillbaka till trygg mark</a>
+
+  <footer>
+    <p>"Vi går inte vilse – vi upptäcker nya vägar."</p>
+    <p>© 2025 Nykterhetsrörelsens Scoutförbund – Demokrati, Solidaritet och Nykterhet</p>
+  </footer>
+</body>
+</html>
+{{ end }}
