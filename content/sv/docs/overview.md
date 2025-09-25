@@ -1,7 +1,7 @@
 ---
 title: Översikt
 description: Här kan man hitta information om vad detta handlar om.
-weight: 1
+weight: 10
 ---
 
 {{% pageinfo %}}
