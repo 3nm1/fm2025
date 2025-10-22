@@ -9,7 +9,7 @@ weight: 40
 * 20:45 [Utmanaraktivitet](https://fm2025.se/docs/utmanare/)
 
 **Lördag**
-* 07:30-09:00 Incheckning öppen på Jenny Nyströmskolan
+* 07:30-09:00 Incheckning öppen på [Jenny Nyströmskolan](https://maps.app.goo.gl/epAUGYb4mnmojXKy7)
 * 08:30 Ombudsskola
 * 09:00 Invigning
 * 09:30-10:50 Plena
