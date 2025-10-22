@@ -10,7 +10,6 @@ weight: 20
 Översiktskarta Kalmar, nedan finns det även länkar som tar er till google maps.  
 [Öppna pdf](/pdf/karta.pdf)
 {{% /pageinfo %}}
-
 {{< svg "map.svg" >}}
 
 1. Jenny Nyströmskolan  

@@ -1,6 +1,8 @@
 ---
 title: Utmanare
 description: Här har vi samlat sådant som gäller utmanare
+kategorier: [Dokumentation]
+taggar: [Utmanaraktivitet, utmanare, Max]
 weight: 50
 ---
 ## Utmanaraktivitet

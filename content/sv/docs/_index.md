@@ -5,7 +5,7 @@ menu: {main: {weight: 20}}
 ---
 
 {{% pageinfo %}}
-Ett första test med dokumentation.
+Information till dig som deltagare i Förbundsmötet 2025
 {{% /pageinfo %}}
 
-Uppenbarligen så saknas det lite saker här...
+På denna sida samlar vi de frågor och svar som är utöver det som framgår i utskick från Förbundet och som finns att hitta i årsmöteshandlingar och liknande.

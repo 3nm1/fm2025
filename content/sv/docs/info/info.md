@@ -1,6 +1,8 @@
 ---
 title: Generell information
-description: Här har vi samlat sådant som 
+description: Information som gäller lite av varje
+kategorier: [Dokumentation]
+taggar: [Lyssnande öra, Drop in, matsaker, kåsa]
 weight: 30
 ---
 
