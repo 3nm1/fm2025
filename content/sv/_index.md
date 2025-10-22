@@ -19,11 +19,11 @@ Här är det tanken att vi ska samla allt vi som arrangör kan komma på om För
 Kartor och vägbeskrivningar på plats och hur man tar sig hit.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-calender" title="Schema för helgen!" url="https://fm2025.se/docs/schema/schema/" %}}
+{{% blocks/feature icon="<"fa-solid fa-calendar-day" title="Schema för helgen!" url="https://fm2025.se/docs/schema/schema/" %}}
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-glass" title="Allt om festkvällen" url="https://fm2025.se/docs/festkvall/festkvall/" %}}
+{{% blocks/feature icon=""fa-solid fa-champagne-glasses"" title="Allt om festkvällen" url="https://fm2025.se/docs/festkvall/festkvall/" %}}
 Livsviktig kunskap.
 {{% /blocks/feature %}}
 
