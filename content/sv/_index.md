@@ -15,10 +15,8 @@ Här är det tanken att vi ska samla allt vi som arrangör kan komma på om För
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-solid fa-map-location-dot" title="Hur hittar jag?" %}}
+{{% blocks/feature icon="fa-solid fa-map-location-dot" title="Hur hittar jag?" url="https://fm2025.se/docs/maps/" %}}
 Kartor och vägbeskrivningar på plats och hur man tar sig hit.
-[blarg](https://www.sunet.se)
-
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-book" title="Bra att veta!" url="https://www.nsf.scout.se" %}}

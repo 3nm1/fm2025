@@ -27,17 +27,8 @@ Kungsgatan 1, 392 33 Kalmar
 
 4. Mötesplats Energihuset (IOGT-NTO)  
 Trädgårdsgatan 12, 392 49 Kalmar  
-[Nykterhetens hus](https://maps.app.goo.gl/xo17vfZ6xmsgrMTg8)
+[Energihuset](https://maps.app.goo.gl/xo17vfZ6xmsgrMTg8)
 
 5. Kulturhuset Strömmen  
 Tullslätten 4, 392 53 Kalmar  
 [Kulturhuset Strömmen](https://maps.app.goo.gl/o1BwaKH8cxQfQipL8)
-
-### Alerts
-
-{{< alert >}}This is an alert.{{< /alert >}}
-{{< alert title="Note" >}}This is an alert with a title.{{< /alert >}}
-{{% alert title="Note" %}}This is an alert with a title and **Markdown**.{{% /alert %}}
-{{< alert color="success" >}}This is a successful alert.{{< /alert >}}
-{{< alert color="warning" >}}This is a warning.{{< /alert >}}
-{{< alert color="warning" title="Warning" >}}This is a warning with a title.{{< /alert >}}

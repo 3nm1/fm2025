@@ -13,8 +13,8 @@ menu: {main: {weight: 10}}
 
 {{% blocks/section %}}
 
-# Sidorna är under ständig uppdatering
+# Välkommen till Kalmar och Förbundsmöte 2025
 {.text-center}
-Denna hemsida är tänkt för att vi som arrangörer snabbt ska kunna nå ut med aktuell information, istället för ett informationshäfte.
+Smålandsstaden Kalmar på Östkusten är platsen för många historiska händelser. Nu är det vi som har möjlighet att på årets Förbundsmöte fatta historiska beslut för framtiden. För att du ska känna dig extra välkommen till oss har vi på denna hemsida samlat praktisk information om helgen.
 {.text-center}
 {{% /blocks/section %}}
