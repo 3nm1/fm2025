@@ -1,6 +1,6 @@
 ---
 title: Festkväll 
-description:
+description: Detaljerad information om festkvällen
 weight: 40
 kategorier: [Dokumentation]
 taggar: [Festkväll, Musikquiz, Disco]
@@ -17,7 +17,7 @@ Senare under kvällen kan du besöka Energihuset där det kommer finnas en truba
 
 | **Tid:**         | **Aktivitet:**           | **Plats:**         |
 |--------------|----------------------|-----------------|
-| 18:00        | Middag               | [Lars Kaggskolans matsal](https://maps.app.goo.gl/hT2jUi2nqpqxWGt58) |
+| 18:15        | Middag               | [Lars Kaggskolans matsal](https://maps.app.goo.gl/hT2jUi2nqpqxWGt58) |
 | 20:15        | Eldshow              | [Energihusets parkering](https://maps.app.goo.gl/xo17vfZ6xmsgrMTg8) |
 | 20:30-00:00  | Aktiviteter & Café   | [Energihuset](https://maps.app.goo.gl/xo17vfZ6xmsgrMTg8), [Strömmen](https://maps.app.goo.gl/o1BwaKH8cxQfQipL8) och [Slottet](https://maps.app.goo.gl/a1hNxaqhd48aRBXu6) |
 

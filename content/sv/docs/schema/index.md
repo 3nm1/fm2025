@@ -2,6 +2,8 @@
 title: Schema
 description: Schema för hela helgen
 weight: 40
+resources:
+    - src: '**skyline*.png'
 ---
 
 **Fredag**
@@ -30,4 +32,8 @@ weight: 40
 * 10:20-11:45 Plena
 * 12:00-13:00 Lunch
 * 13:15-15:30 Plena
-* 15:30 Avslutning – Förhandlingar beräknas ta slut, men kan komma att dra ut på tiden.
+* 15:30 Avslutning – Förhandlingar beräknas ta slut, men kan komma att dra ut på tiden
+
+{{% imgproc sky Resize "1000x" %}}
+
+{{% /imgproc %}}
