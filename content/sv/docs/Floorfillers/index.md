@@ -1,7 +1,8 @@
 ---
 title: Floorfillers
 description: Fem floorfillers från discot
-
+kategorier: [Dokumentation]
+taggar: [Disco, Strömmen]
 weight: 150
 ---
 ## Floorfillers
